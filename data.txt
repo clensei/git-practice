@@ -3,4 +3,4 @@ Age:  27
 Listening to: Jazz
 Status: hungry
 Currrently: learning
-Success: Yes/No
+Success: Yes/No --> Yes

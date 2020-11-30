@@ -1,3 +1,4 @@
 Name: Clemboy
 Age:  27
 Listening to: Jazz
+Status: hungry

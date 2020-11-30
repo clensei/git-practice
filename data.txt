@@ -5,3 +5,4 @@ Status: hungry
 Currrently: learning
 Success: Yes/No --> Yes
 Do it Again! Ok, Done. 
+Understood?
